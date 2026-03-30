@@ -1,1 +1,3 @@
-# pricetracker
+# Price Tracker
+
+This is my project.
